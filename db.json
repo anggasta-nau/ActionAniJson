@@ -1,0 +1,64 @@
+{
+    "Action": [
+     {
+       "id": 1,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-OVPsmFwRUz7t.jpg",
+      "imgBanner": "https://somoskudasai.com/wp-content/uploads/2020/09/portada_mashle.jpg",
+       "title": "Mashle",
+       "genre" : "Action,Comedy,Fantasy",
+       "rating" : "4.5/5.0",
+       "release" : "2023",
+       "Deskripsi": "This is a world of magic. This is a world in which magic is casually used by everyone. In a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He can’t use magic. All he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. "
+     },
+     {
+       "id": 2,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114129-RLgSuh6YbeYx.jpg",
+      "imgBanner": "https://anidl.org/wp-content/uploads/2021/04/Gintama%C2%B0-Season-04.jpg",
+       "title": "Gintama: The Final",
+       "genre" : "Action, Comedy, Drama, Sci-fi",
+       "rating" : "4.5/5.0",
+       "release" : "Winter 2021",
+       "Deskripsi": "Gintama: THE FINAL is the 3rd and final film adaptation of the remainder of the Silver Soul arc and is the series finale."
+     },
+     {
+       "id": 3,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153452-6aGeSxRw2cxY.jpg",
+      "imgBanner": "https://img.anime2you.de/2020/11/ousama-game.jpg",
+       "title": "Ousama Ranking Season 2nd",
+       "genre" : "Action, Adventure, Drama",
+       "rating" : "4.7/5.0",
+       "release" : "Spring 2023",
+       "Deskripsi": "Get ready for a new collection of stories from Ranking of Kings!"
+     },
+     {
+       "id": 4,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
+      "imgBanner": "https://i.pinimg.com/736x/46/49/84/4649847c007b556f94c653e5deb2bd37.jpg",
+       "title": "Attack on Titan The Final Season",
+       "genre" : "Action,Adventure,Fantasy",
+       "rating" : "4.5/5.0",
+       "release" : "Spring 2023",
+       "Deskripsi": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley. Now a motley crew of his former comrades and enemies scramble to halt his deadly mission, the only question is, can they stop him?"
+     },
+     {
+       "id": 5,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
+      "imgBanner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkfoqeSVS5FNo5mfZUUa-O8X0ZFCmkYcDbtZb6Sp0_ipnln6pNAR6TDW_nJXONu5gjxaqqeVJ1J2d8eTbOk5WdOUfl1AC1IpDX1hT4iZuwz-3Z9Vqre1SikGHiOCyLh29PhaG_4Q6Hj7m8oFV4O4h8uooYgJjcbhXfQ2Ypx86H1hfmZWrE52lonUlY/w0/bleach_sennen_kessen-hen.jpg",
+       "title": "Bleach: Sennen Kessen-hen",
+       "genre" : "Action, Adventure, Supernatural",
+       "rating" : "4.7/5.0",
+       "release" : "Fall 2022",
+       "Deskripsi": "Was it all just a coincidence, or was it inevitable? Ichigo Kurosaki gained the powers of a Soul Reaper through a chance encounter. As a Substitute Soul Reaper, Ichigo became caught in the turmoil of the Soul Society, a place where deceased souls gather. But with help from his friends, Ichigo overcame every challenge to become even stronger. When new Soul Reapers and a new enemy appear in his hometown of Karakura, Ichigo jumps back into the battlefield with his Zanpakuto to help those in need."
+     },
+     {
+       "id": 6,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2921-wxj62hpZVbuF.jpg",
+      "imgBanner": "https://images.launchbox-app.com/f5dca770-baa5-4ba1-96e8-0c245e372f73.png",
+       "title": "Ashita no Joe 2",
+       "genre" : "Action, Drama, Slice of Life",
+       "rating" : "4.8/5.0",
+       "release" : "Fall 1970",
+       "Deskripsi": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end."
+     }
+   ]
+ }
